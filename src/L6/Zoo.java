@@ -20,7 +20,9 @@ public class Zoo {
 
     private void createMurder(int number){
         // Fyll på med kod här
-
+        for(int i = 0; i < number -1; i++){
+            murder[i] = new Crow();
+        }
     }
 
     private void createPride(int number){
