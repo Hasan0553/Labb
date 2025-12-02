@@ -1,3 +1,4 @@
+package L6;
 public enum BirdName {
     // This enum contains allowed animal names
     VANTA("Vanta"),
